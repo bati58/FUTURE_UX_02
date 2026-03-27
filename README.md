@@ -168,7 +168,7 @@ To design a **high-quality mobile booking experience** that:
 
 ### Onboarding
 ![Onboarding](./onboarding.png)  
-![Onboarding](./onboarding1.png)  
+![Onboarding](./onboarding1(1).png)  
 ![Onboarding](./onboarding2.png)  
 ![Onboarding](./onboarding3.png)  
 
