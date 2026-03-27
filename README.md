@@ -11,7 +11,7 @@ The app solves common problems in traditional booking systems such as:
 - Poor customer experience  
 - Manual booking inefficiencies  
 
-The goal is to provide a **simple, fast, and user-friendly mobile experience** that allows customers to book services بسهولة and helps the business manage appointments efficiently.
+The goal is to provide a **simple, fast, and user-friendly mobile experience** that allows customers to book services and helps the business manage appointments efficiently.
 
 ---
 
