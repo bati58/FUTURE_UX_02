@@ -164,65 +164,65 @@ To design a **high-quality mobile booking experience** that:
 - Consistent spacing and typography
 - Mobile usability focus
 
-                                                                                                 ## 📸 Screenshots
-                                                                                                 
-                                                                                                 ### Onboarding
-                                                                                                 ![Onboarding](./onboarding.png)  
-                                                                                                 ![Onboarding](./onboarding1.png)  
-                                                                                                 ![Onboarding](./onboarding2.png)  
-                                                                                                 ![Onboarding](./onboarding3.png)  
-                                                                                                 
-                                                                                                 ---
-                                                                                                 
-                                                                                                 ### Authentication
-                                                                                                 ![Sign Up](./sign%20up.png)  
-                                                                                                 ![Sign In](./sign%20in.png)  
-                                                                                                 
-                                                                                                 ---
-                                                                                                 
-                                                                                                 ### Home Screen
-                                                                                                 ![Home](./home.png)  
-                                                                                                 
-                                                                                                 ---
-                                                                                                 
-                                                                                                 ### Service Selection
-                                                                                                 ![Service](./Service%20Selection1.png)  
-                                                                                                 ![Service](./Service%20Selection2.png)  
-                                                                                                 ![Service](./Service%20Selection3.png)  
-                                                                                                 
-                                                                                                 ---
-                                                                                                 
-                                                                                                 ### Stylist Selection
-                                                                                                 ![Stylist](./Staff%20Selection.png)  
-                                                                                                 ![Stylist](./Staff%20Selection%20(1).png)  
-                                                                                                 ![Stylist](./Staff%20Selection%20(2).png)  
-                                                                                                 ![Stylist](./Staff%20Selection%20(3).png)  
-                                                                                                 ![Stylist](./Staff%20Selection%20(4).png)  
-                                                                                                 
-                                                                                                 ---
-                                                                                                 
-                                                                                                 ### Date & Time Selection
-                                                                                                 ![Booking](./date-time-selection.png)  
-                                                                                                 
-                                                                                                 ---
-                                                                                                 
-                                                                                                 ### Booking Confirmation
-                                                                                                 ![Confirmation](./book%20confirm.png)  
-                                                                                                 
-                                                                                                 ---
-                                                                                                 
-                                                                                                 ### History
-                                                                                                 ![History](./history.png)  
-                                                                                                 
-                                                                                                 ---
-                                                                                                 
-                                                                                                 ### Notifications
-                                                                                                 ![Notifications](./Notification.png)  
-                                                                                                 
-                                                                                                 ---
-                                                                                                 
-                                                                                                 ### Profile
-                                                                                                 ![Profile](./profile.png)  
+## 📸 Screenshots
+
+### Onboarding
+![Onboarding](./onboarding.png)  
+![Onboarding](./onboarding1.png)  
+![Onboarding](./onboarding2.png)  
+![Onboarding](./onboarding3.png)  
+
+---
+
+### Authentication
+![Sign Up](./sign%20up.png)  
+![Sign In](./sign%20in.png)  
+
+---
+
+### Home Screen
+![Home](./home.png)  
+
+---
+
+### Service Selection
+![Service](./Service%20Selection1.png)  
+![Service](./Service%20Selection2.png)  
+![Service](./Service%20Selection3.png)  
+
+---
+
+### Stylist Selection
+![Stylist](./Staff%20Selection.png)  
+![Stylist](./Staff%20Selection%20(1).png)  
+![Stylist](./Staff%20Selection%20(2).png)  
+![Stylist](./Staff%20Selection%20(3).png)  
+![Stylist](./Staff%20Selection%20(4).png)  
+
+---
+
+### Date & Time Selection
+![Booking](./date-time-selection.png)  
+
+---
+
+### Booking Confirmation
+![Confirmation](./book%20confirm.png)  
+
+---
+
+### History
+![History](./history.png)  
+
+---
+
+### Notifications
+![Notifications](./Notification.png)  
+
+---
+
+### Profile
+![Profile](./profile.png)  
 
 ---
 
