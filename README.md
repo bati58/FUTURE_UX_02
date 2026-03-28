@@ -4,7 +4,7 @@
 [View Design](https://www.figma.com/design/5fjbbL4WlkSVPK80NESaGw/Selam-Beauty-Salon-%E2%80%93-Appointment-App?node-id=0-1&t=y9P4MYADRZo0nwgY-1)
 
 ## 🚀 Live Demo
-[![Live Demo](https://www.figma.com/proto/5fjbbL4WlkSVPK80NESaGw/Selam-Beauty-Salon-%E2%80%93-Appointment-App?node-id=20-788&p=f&t=e4ALa6m5ujRWhRIY-0&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=20%3A788&show-proto-sidebar=1)
+![Live Demo](https://www.figma.com/proto/5fjbbL4WlkSVPK80NESaGw/Selam-Beauty-Salon-%E2%80%93-Appointment-App?node-id=20-788&p=f&t=e4ALa6m5ujRWhRIY-0&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=20%3A788&show-proto-sidebar=1)
 
 
 ## 📌 Project Overview
