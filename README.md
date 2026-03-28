@@ -1,7 +1,11 @@
 # FUTURE_UX_02
 # 💇‍♀️ Selam Beauty Salon – Appointment Booking Mobile App UI
+## See the Figma file: 
+[View Design]([https://www.figma.com/file/abc123/MyDesign](https://www.figma.com/proto/5fjbbL4WlkSVPK80NESaGw/Selam-Beauty-Salon-%E2%80%93-Appointment-App?node-id=20-788&p=f&t=e4ALa6m5ujRWhRIY-0&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=20%3A788&show-proto-sidebar=1))
+
 ## 🚀 Live Demo
-[![See Figma Files](https://img.shields.io/badge/Live-Demo-green)](https://www.figma.com/design/5fjbbL4WlkSVPK80NESaGw/Selam-Beauty-Salon-%E2%80%93-Appointment-App?node-id=0-1&t=y9P4MYADRZo0nwgY-1)
+[![Live Demo](https://img.shields.io/badge/Live-Demo-green)](https://www.figma.com/design/5fjbbL4WlkSVPK80NESaGw/Selam-Beauty-Salon-%E2%80%93-Appointment-App?node-id=0-1&t=y9P4MYADRZo0nwgY-1)
+
 
 ## 📌 Project Overview
 This project is a **mobile-first UI/UX design** for an appointment booking app created for a real local business: **Selam Beauty Salon**.
